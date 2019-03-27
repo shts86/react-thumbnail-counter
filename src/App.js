@@ -4,18 +4,18 @@ class App extends Component {
 
   state = {
     imgArr : [
-      '../images/baby.jpg',
-      '../images/bled.jpg',
-      '../images/cat.jpg',
-      '../images/colored-pencils.jpg',
-      '../images/happy.jpg',
-      '../images/night-bird.jpg',
-      '../images/mother.jpg',
-      '../images/mountain.jpg',
-      '../images/night.jpg',
-      '../images/ship.jpg',
-      '../images/skyscraper.jpg',
-      '../images/web.jpg'
+      '/images/baby.jpg',
+      '/images/bled.jpg',
+      '/images/cat.jpg',
+      '/images/colored-pencils.jpg',
+      '/images/happy.jpg',
+      '/images/night-bird.jpg',
+      '/images/mother.jpg',
+      '/images/mountain.jpg',
+      '/images/night.jpg',
+      '/images/ship.jpg',
+      '/images/skyscraper.jpg',
+      '/images/web.jpg'
     ],
     currentImage: '',
 
